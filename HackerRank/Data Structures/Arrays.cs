@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace HackerRank.Data_Structures
 {
-    public static class Array
+    public static class Arrays
     {
         #region https://www.hackerrank.com/challenges/array-left-rotation/problem
 
